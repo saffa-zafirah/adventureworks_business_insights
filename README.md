@@ -25,7 +25,10 @@ The dashboard was built using the following tools and technologies:
 The dataset used in this project is based on the AdventureWorks Cycles sample database.
 For this dashboard, the data was provided as part of a Udemy Power BI course in pre-processed formats, CSV files.
 
-# 5. 
+# 5. Demo and Key Insights (soon)
 
 This is my dashboard looks like: ![Alt_text](https://github.com/saffa-zafirah/adventureworks_business_insights/blob/main/main_dashboard.jpg)
+![Alt_text](https://github.com/saffa-zafirah/adventureworks_business_insights/blob/main/maps.jpg)
+![Alt_text](https://github.com/saffa-zafirah/adventureworks_business_insights/blob/main/customer_detail.jpg)
+![Alt_text](https://github.com/saffa-zafirah/adventureworks_business_insights/blob/main/product_detail.jpg)
 
