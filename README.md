@@ -27,6 +27,5 @@ For this dashboard, the data was provided as part of a Udemy Power BI course in 
 
 # 5. 
 
-This is my dashboard looks like:
-https://github.com/saffa-zafirah/adventureworks_business_insights/blob/main/main_dashboard.jpg
+This is my dashboard looks like: ![Alt_text](https://github.com/saffa-zafirah/adventureworks_business_insights/blob/main/main_dashboard.jpg)
 
